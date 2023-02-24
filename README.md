@@ -1,6 +1,6 @@
 Welcome to my GitHub profile 👋
 
-I am a data scientist with a passion for solving complex problems and uncovering insights through data. I have experience working on a variety of data science projects, including machine learning, data visualization, and data analysis.
+I am a data science student with a passion for solving complex problems and uncovering insights through data. I have experience working on a variety of data science projects, including machine learning, data visualization, and data analysis.
 
 On this profile, you will find a selection of my projects that showcase my skills and experience in the field of data science. Each project includes a brief overview, the tools and technologies used, and the full code. 
 
